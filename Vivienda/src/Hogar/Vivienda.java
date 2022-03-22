@@ -11,6 +11,7 @@ package Hogar;
  */
 public class Vivienda {
 
+    /** comentario de prueba */
     public Vivienda(double precio, int numHabitaciones, double superficie, boolean parking, String estado, String propietario) {
         this.precio = precio;
         this.numHabitaciones = numHabitaciones;
